@@ -1,4 +1,5 @@
-# Descrição: 
+
+## ✍️  Descrição: 
 
 O repositório armazena scripts de SQL desenvolvidos em diferentes situações.  
 
